@@ -1,5 +1,5 @@
 # Final-Exam
-
+## Pierre Papot & Aurelien Blot
 Cet Exam final durera 1h30, et sera par groupe de 2.
 
 Il y a 3 exercices et chacun se trouve dans une branche de ce **Repository** (`exo-01`, `exo-02`, `exo-03`)
