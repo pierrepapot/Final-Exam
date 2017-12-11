@@ -1,4 +1,4 @@
-/*Film 2
+Film 2
 
 # 2Fast 2Furious
 
@@ -60,4 +60,4 @@ Avec:
 1. Vin Diesel
 1. Jason Statham
 
-[lien](http://www.imdb.com/title/tt2820852/?ref_=tt_rec_tt)*/
+[lien](http://www.imdb.com/title/tt2820852/?ref_=tt_rec_tt)
