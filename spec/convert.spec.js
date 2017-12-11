@@ -1,13 +1,13 @@
 describe('Test des parametres de la fonction', function() {
 	
 	it('la fonction doit prendre 3 parametres', function() {
-        /*expect(convertisseur('USD')).toBe(null);
-        expect(convertisseur('USD',2)).toBe(null);*/
+        expect(convertisseur('USD')).toBe(null);
+        expect(convertisseur('USD',2)).toBe(null);
 		expect(convertisseur('USD', 2, 'EUR')).not.toBe(null);
     });
     
     it('les 3 parametres doivent etre du bon type', function() {
-		/*expect(convertisseur(2, 2, 'EUR')).toBe(null);
+	expect(convertisseur(2, 2, 'EUR')).toBe(null);
         expect(convertisseur(null, 2, 'EUR')).toBe(null);
         expect(convertisseur('a', 2, 'EUR')).toBe(null);
         expect(convertisseur('NZD','USD', 'EUR')).toBe(null);
@@ -16,7 +16,7 @@ describe('Test des parametres de la fonction', function() {
         expect(convertisseur('USD', 2, 3)).toBe(null);
         expect(convertisseur('USD', 2, 'l')).toBe(null);
         expect(convertisseur('USD', 2, null)).toBe(null);
-        expect(convertisseur('NZD', 2, 'EUR')).not.toBe(null);*/
+        expect(convertisseur('NZD', 2, 'EUR')).not.toBe(null);
     });
 
 });
